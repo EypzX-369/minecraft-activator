@@ -6,7 +6,8 @@ A streamlined utility designed to unlock the full version of Minecraft Bedrock f
 
 Before proceeding, ensure you have the official trial version installed directly from the Microsoft Store.
 
-[Download Minecraft Trial]([https://apps.microsoft.com/detail/9NBLGGH2JHXJ](https://apps.microsoft.com/detail/9NBLGGH2JHXJ?hl=en-us&gl=US&ocid=pdpshare))
+[Download Minecraft Trial](https://apps.microsoft.com/detail/9NBLGGH2JHXJ?hl=en-us&gl=US&ocid=pdpshare)
+
 
 ## Installation Steps
 
